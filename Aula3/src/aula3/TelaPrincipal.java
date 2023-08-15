@@ -86,7 +86,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         // TODO add your handling code here:
         String x = txtMensagem.getText();
         //int idade = Integer.parseInt("50");
-        //System.out.println(idade);
+        System.out.println(10);
         
         
         
